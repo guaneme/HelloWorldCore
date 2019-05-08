@@ -1,0 +1,11 @@
+C:\Users\carlosguaneme\Source\Repos\HelloWorldCore\HelloWorldCoreConsole\bin\Debug\netcoreapp2.2\HelloWorldCoreConsole.deps.json
+C:\Users\carlosguaneme\Source\Repos\HelloWorldCore\HelloWorldCoreConsole\bin\Debug\netcoreapp2.2\HelloWorldCoreConsole.runtimeconfig.json
+C:\Users\carlosguaneme\Source\Repos\HelloWorldCore\HelloWorldCoreConsole\bin\Debug\netcoreapp2.2\HelloWorldCoreConsole.runtimeconfig.dev.json
+C:\Users\carlosguaneme\Source\Repos\HelloWorldCore\HelloWorldCoreConsole\bin\Debug\netcoreapp2.2\HelloWorldCoreConsole.dll
+C:\Users\carlosguaneme\Source\Repos\HelloWorldCore\HelloWorldCoreConsole\bin\Debug\netcoreapp2.2\HelloWorldCoreConsole.pdb
+C:\Users\carlosguaneme\Source\Repos\HelloWorldCore\HelloWorldCoreConsole\obj\Debug\netcoreapp2.2\HelloWorldCoreConsole.csprojAssemblyReference.cache
+C:\Users\carlosguaneme\Source\Repos\HelloWorldCore\HelloWorldCoreConsole\obj\Debug\netcoreapp2.2\HelloWorldCoreConsole.csproj.CoreCompileInputs.cache
+C:\Users\carlosguaneme\Source\Repos\HelloWorldCore\HelloWorldCoreConsole\obj\Debug\netcoreapp2.2\HelloWorldCoreConsole.AssemblyInfoInputs.cache
+C:\Users\carlosguaneme\Source\Repos\HelloWorldCore\HelloWorldCoreConsole\obj\Debug\netcoreapp2.2\HelloWorldCoreConsole.AssemblyInfo.cs
+C:\Users\carlosguaneme\Source\Repos\HelloWorldCore\HelloWorldCoreConsole\obj\Debug\netcoreapp2.2\HelloWorldCoreConsole.dll
+C:\Users\carlosguaneme\Source\Repos\HelloWorldCore\HelloWorldCoreConsole\obj\Debug\netcoreapp2.2\HelloWorldCoreConsole.pdb
