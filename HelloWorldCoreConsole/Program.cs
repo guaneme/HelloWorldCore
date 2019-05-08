@@ -6,7 +6,7 @@ namespace HelloWorldCoreConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Core World!");
+            Console.WriteLine("Hello Core World!!!");
         }
     }
 }
